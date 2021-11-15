@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:0 "ext",01863746906
-https://m.facebook.com/story.php?story_fbid=1818207255018138&id=100004866439337
+#EXTINF:0 tvg-id="ext" group-title="01863746906",01863746906
+https://drive.google.com/u/0/uc?export=download&confirm=Hvgg&id=1-1-sZueH8avICfGpcT8bxstsCTS6vIG4
 #EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Channels",T Sports
 http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Channels",T Sports 2
