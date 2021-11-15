@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="01863746906",01863746906
-https://drive.google.com/u/0/uc?export=download&confirm=Hvgg&id=1-1-sZueH8avICfGpcT8bxstsCTS6vIG4
+http://10.16.100.241/ftps3d4/Movies/Bangla%20(Kolkata)/Baari%20Tar%20Bangla%20(2014)%201080p%20WEBHD.mkv
 #EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Channels",T Sports
 http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Channels",T Sports 2
