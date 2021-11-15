@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:,01863746906
-01863746906
+http://01863746906
 #EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Channels",T Sports
 http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Channels",T Sports 2
