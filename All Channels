@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:,0 tvg-id="ext" group-title="CONTRACT",01863746906
-01863746906
+http://01863746906
 #EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Channels",T Sports
 http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Channels",T Sports 2
@@ -208,4 +208,4 @@ http://tvstream.space/jtv/tvvv.php?c=Nick_Bangla&q=800&e=.m3u8
 #EXTINF:,DURONTO TV
 http://89.187.185.89:3232/ban-duronto/tracks-v1a1/mono.m3u8
 #EXTINF:,NAT GEO WILD
-50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
