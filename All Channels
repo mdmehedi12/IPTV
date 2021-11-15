@@ -205,3 +205,5 @@ https://last.gcdn.co/IND389/index.m3u8
 http://suncable.serveftp.com/jalshamuvies-enc/video.m3u8
 #EXTINF:,NICK
 http://tvstream.space/jtv/tvvv.php?c=Nick_Bangla&q=800&e=.m3u8
+#EXTINF:,DURONTO TV
+http://89.187.185.89:3232/ban-duronto/tracks-v1a1/mono.m3u8
