@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:,Contract
-01863746906
 #EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Channels",T Sports
 http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Channels",T Sports 2
@@ -103,107 +101,107 @@ http://65.2.4.240/jioo.php?c=Colors_Bengali_HD&q=1200&e=junk.m3u8
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",FOX501
 https://nayeemparvez.ml/Fox-Sports-501-HD.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Zee Bangla Cinema
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Zee Bangla Cinema
 https://last.gcdn.co/IND398/tracks-v1a1/mono.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Dipto tv
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Dipto tv
 https://last.gcdn.co/IND450/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Asian tv
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Asian tv
  https://last.gcdn.co/IND451/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",SA TV
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",SA TV
 https://last.gcdn.co/IND449/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Bangla tv
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Bangla tv
 https://last.gcdn.co/IND448/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Boisaki tv
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Boisaki tv
 https://last.gcdn.co/IND447/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",I tv
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",I tv
 https://last.gcdn.co/IND445/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",Stv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Stv
 https://last.gcdn.co/IND444/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",Desh tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Desh tv
 https://last.gcdn.co/IND443/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",GB tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",GB tv
 https://last.gcdn.co/IND442/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",Mohona tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mohona tv
 https://last.gcdn.co/IND441/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",R bangla
+#EXTINF:0 tvg-id="ext" group-title="Channels",R bangla
 https://last.gcdn.co/IND440/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",Nobodip tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nobodip tv
 https://last.gcdn.co/IND452/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",Time tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Time tv
 https://last.gcdn.co/IND453/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",Bijoy tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bijoy tv
 https://last.gcdn.co/IND455/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",Amar
+#EXTINF:0 tvg-id="ext" group-title="Channels",Amar
 https://last.gcdn.co/IND456/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",Ekuse tv 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ekuse tv 
 https://last.gcdn.co/IND434/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",Nagorik
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nagorik
 https://last.gcdn.co/IND433/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",Jamuna tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Jamuna tv
 https://last.gcdn.co/IND432/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",Channel24
+#EXTINF:0 tvg-id="ext" group-title="Channels",Channel24
 https://last.gcdn.co/IND431/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",Independent
+#EXTINF:0 tvg-id="ext" group-title="Channels",Independent
 https://last.gcdn.co/IND430/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",71 tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",71 tv
 https://last.gcdn.co/IND429/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",Dbc
+#EXTINF:0 tvg-id="ext" group-title="Channels",Dbc
 https://last.gcdn.co/IND428/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",Btv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Btv
 https://last.gcdn.co/IND427/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",Macranga
+#EXTINF:0 tvg-id="ext" group-title="Channels",Macranga
 https://last.gcdn.co/IND426/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",Gtv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Gtv
 https://last.gcdn.co/IND425/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",Bangla vision
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bangla vision
 https://last.gcdn.co/IND423/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",Rtv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Rtv
 https://last.gcdn.co/IND422/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",Ntv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ntv
 https://last.gcdn.co/IND420/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",Chanal i
+#EXTINF:0 tvg-id="ext" group-title="Channels",Chanal i
 https://last.gcdn.co/IND419/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",Somoy
+#EXTINF:0 tvg-id="ext" group-title="Channels",Somoy
 https://last.gcdn.co/IND418/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",Lov
+#EXTINF:0 tvg-id="ext" group-title="Channels",Lov
 https://last.gcdn.co/IND416/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",Discovery HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery HD
 https://last.gcdn.co/IND415/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",National geo
+#EXTINF:0 tvg-id="ext" group-title="Channels",National geo
 https://last.gcdn.co/IND414/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",M
+#EXTINF:0 tvg-id="ext" group-title="Channels",M
 https://last.gcdn.co/IND413/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",Iqraa
+#EXTINF:0 tvg-id="ext" group-title="Channels",Iqraa
 https://last.gcdn.co/IND412/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",Peace tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Peace tv
 https://last.gcdn.co/IND411/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",Atn islam
+#EXTINF:0 tvg-id="ext" group-title="Channels",Atn islam
 https://last.gcdn.co/IND410/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",Quran hedaya
+#EXTINF:0 tvg-id="ext" group-title="Channels",Quran hedaya
 https://last.gcdn.co/IND409/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",Tv9
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tv9
 https://last.gcdn.co/IND408/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",Daoom
+#EXTINF:0 tvg-id="ext" group-title="Channels",Daoom
 https://last.gcdn.co/IND407/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",Songit bd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Songit bd
 https://last.gcdn.co/IND405/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",Zee24
+#EXTINF:0 tvg-id="ext" group-title="Channels",Zee24
 https://last.gcdn.co/IND400/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",Sony 8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sony 8
 https://last.gcdn.co/IND397/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",Akash 8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Akash 8
 https://last.gcdn.co/IND396/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",Sun
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sun
 https://last.gcdn.co/IND394/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",Colors hd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Colors hd
 https://last.gcdn.co/IND393/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",Star jalsha
+#EXTINF:0 tvg-id="ext" group-title="Channels",Star jalsha
 https://last.gcdn.co/IND392/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",Jalsha hd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Jalsha hd
 https://last.gcdn.co/IND391/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",Zee bangla
+#EXTINF:0 tvg-id="ext" group-title="Channels",Zee bangla
 https://last.gcdn.co/IND390/index.m3u8
-#Extinf:0 tvg-id="ext" group-title="Channels",Zee bangla hd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Zee bangla hd
 https://last.gcdn.co/IND389/index.m3u8
-#EXTINF:,Jalsha Movies
+#EXTINF:,JALSHA MOVIES HD
 http://suncable.serveftp.com/jalshamuvies-enc/video.m3u8
