@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="01863746906",01863746906
-https://drive.google.com/file/d/1bIIyh0pFrGz159inRbg1uWB9AXSD4y11/view?usp=drivesdk
+https://drive.google.com/uc?export=download&confirm=mqEn&id=1bIIyh0pFrGz159inRbg1uWB9AXSD4y11
 #EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Channels",T Sports
 http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Channels",T Sports 2
