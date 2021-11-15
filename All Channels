@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="01863746906",01863746906 GODZILLA
+#EXTINF:0 tvg-id="ext" group-title="01863746906",01863746906 GODZILLA 4k
 http://10.16.100.202/ftps10/iccftps10sasd3/Movies/4K/English/Godzilla%20King%20Of%20The%20Monsters%20(2019)%202160p%20BluRay.mkv
 #EXTINF:0 tvg-id="ext" group-title="01863746906",01863746906 SHERSHAH 4K
 http://10.16.100.202/ftps10/iccftps10sasd8/Movies/4K/Hindi/Shershaah%20(2021)%202160p%20WEBDL%20DDP%205.1%20HEVC.mkv
+#EXTINF:0 tvg-id="ext" group-title="01863746906",01863746906 KING KONG 4K
+http://10.16.100.206/ftps3/ftps3d5/Movies/4K/English/King%20Kong%20(2005)%202160p%20BluRay.mkv
 #EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Channels",T Sports
 http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Channels",T Sports 2
