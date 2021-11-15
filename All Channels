@@ -207,3 +207,5 @@ http://suncable.serveftp.com/jalshamuvies-enc/video.m3u8
 http://tvstream.space/jtv/tvvv.php?c=Nick_Bangla&q=800&e=.m3u8
 #EXTINF:,DURONTO TV
 http://89.187.185.89:3232/ban-duronto/tracks-v1a1/mono.m3u8
+#EXTINF:,NAT GEO WILD
+50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
