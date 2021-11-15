@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:,CONTRACT 01863746906
+01863746906
 #EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Channels",T Sports
 http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Channels",T Sports 2
@@ -93,10 +95,6 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jaratv.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",RTV
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Nick Bangla
-http://65.2.4.240/jioo.php?c=Nick_Bangla&q=1200&e=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"COLORS BANGLA
-http://65.2.4.240/jioo.php?c=Colors_Bengali_HD&q=1200&e=junk.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",ASPORTS
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",FOX501
