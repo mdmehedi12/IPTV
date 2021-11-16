@@ -1,4 +1,3 @@
-
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="01863746906",01863746906 GODZILLA 4k
 http://10.16.100.202/ftps10/iccftps10sasd3/Movies/4K/English/Godzilla%20King%20Of%20The%20Monsters%20(2019)%202160p%20BluRay.mkv
@@ -32,11 +31,13 @@ http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Channels", Free Sports
 https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Channels", Sony Ten 2 Hd
+#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Channels", Sony Ten 1 HD
+https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Channels", Sony Ten 2 HD
 http://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Channels", Sony Ten 3 Hd
+#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Channels", Sony Ten 3 HD
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Channels", Sony Six Hd
+#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Channels", Sony Six HD
 https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Discovery Bangla Hd
 https://last.gcdn.co/IND415/index.m3u8
@@ -60,6 +61,8 @@ https://last.gcdn.co/IND447/index.m3u8
 https://last.gcdn.co/IND445/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Stv
 https://last.gcdn.co/IND444/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels"R TV
+https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Desh tv
 https://last.gcdn.co/IND443/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",GB tv
