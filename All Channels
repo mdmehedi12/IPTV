@@ -13,240 +13,200 @@ http://10.16.100.241/ftps3d7/TV%20Shows/Bangla%20Drama/Mui%20Barishailla%20Mui%2
 http://10.16.100.241/ftps3d4/TV%20Shows/Bangla%20Drama/Bangi%20TV%20Bangla%20Natok/Bangi%20TV%20E01.mp4
 #EXTINF:0 tvg-id="ext" group-title="01863746906",01863746906 BANGI 2
 http://10.16.100.241/ftps3d4/TV%20Shows/Bangla%20Drama/Bangi%20TV%20Bangla%20Natok/Bangi%20TV%20E02.mp4
-#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Channels",T Sports
+#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Sports",T Sports 1
 http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Channels",T Sports 2
+#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Sports",T Sports 2
 http://10.16.100.207:8082/sports/tSpots_loacal.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Channels",T Sports 3
+#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Sports",T Sports 3
 http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Channels",T Sports 4
+#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Sports",T Sports 4
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Channels",Gtv
+#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Bangla",Gtv 1
 http://10.16.100.207:8082/sports/TH_gtv-local.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Channels",Gtv 2
+#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Bangla",Gtv 2
 http://10.16.100.207:8082/bangla/TH_gtv-local.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Channels",Gtv 3
+#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Bangla",Gtv 3
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Channels",Gtv 4
+#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Bangla",Gtv 4
 http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Channels", Free Sports
-https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Channels", Sony Ten 1 HD
+#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Sports", Sony Ten 1 HD
 https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Channels", Sony Ten 2 HD
+#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Sports", Sony Ten 2 HD
 http://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Channels", Sony Ten 3 HD
+#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Sports", Sony Ten 3 HD
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Channels", Sony Six HD
+#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Sports", Sony Six HD
 https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Discovery Bangla Hd
+#EXTINF:0 tvg-id="ext" group-title="Bangla"0 tvg-id="ext" group-title="My Favourite",Discovery Bangla Hd
 https://last.gcdn.co/IND415/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",National Geographic Bangla
+#EXTINF:0 tvg-id="ext" group-title="Bangla"0 tvg-id="ext" group-title="My Favourite",National Geographic Bangla
 https://last.gcdn.co/IND414/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Sony Aath
+#EXTINF:0 tvg-id="ext" group-title="Bangla"0 tvg-id="ext" group-title="My Favourite",Sony Aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Zee Bangla Cinema
+#EXTINF:0 tvg-id="ext" group-title="Bangla"0 tvg-id="ext" group-title="My Favourite",Zee Bangla Cinema
 https://last.gcdn.co/IND398/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Dipto tv
+#EXTINF:0 tvg-id="ext" group-title="Bangla"0 tvg-id="ext" group-title="Bangla",Dipto tv
 https://last.gcdn.co/IND450/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Asian tv
+#EXTINF:0 tvg-id="ext" group-title="Bangla"0 tvg-id="ext" group-title="Bangla",Asian tv
  https://last.gcdn.co/IND451/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",SA TV
+#EXTINF:0 tvg-id="ext" group-title="Bangla"0 tvg-id="ext" group-title="Bangla",SA TV
 https://last.gcdn.co/IND449/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Bangla tv
+#EXTINF:0 tvg-id="ext" group-title="Bangla"0 tvg-id="ext" group-title="Bangla",Bangla tv
 https://last.gcdn.co/IND448/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Boisaki tv
+#EXTINF:0 tvg-id="ext" group-title="Bangla"0 tvg-id="ext" group-title="Bangla",Boishakhi tv
 https://last.gcdn.co/IND447/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",I tv
+#EXTINF:0 tvg-id="ext" group-title="Bangla"0 tvg-id="ext" group-title="Bangla",I tv
 https://last.gcdn.co/IND445/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Stv
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Stv
 https://last.gcdn.co/IND444/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"R TV
+#EXTINF:0 tvg-id="ext" group-title="Bangla"R TV
 https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Desh tv
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Desh tv
 https://last.gcdn.co/IND443/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GB tv
+#EXTINF:0 tvg-id="ext" group-title="Music",Gaan Bangla
 https://last.gcdn.co/IND442/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Mohona tv
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Mohona tv
 https://last.gcdn.co/IND441/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",R bangla
+#EXTINF:0 tvg-id="ext" group-title="Bangla",R bangla
 https://last.gcdn.co/IND440/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Nobodip tv
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Nobodip tv
 https://last.gcdn.co/IND452/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Time tv
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Time tv
 https://last.gcdn.co/IND453/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bijoy tv
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Bijoy tv
 https://last.gcdn.co/IND455/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Amar
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Amar
 https://last.gcdn.co/IND456/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Ekuse tv 
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Ekuse tv 
 https://last.gcdn.co/IND434/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Nagorik
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Nagorik tv
 https://last.gcdn.co/IND433/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Jamuna tv
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Jamuna tv
 https://last.gcdn.co/IND432/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Channel24
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Channel24
 https://last.gcdn.co/IND431/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Independent
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Independent
 https://last.gcdn.co/IND430/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",71 tv
+#EXTINF:0 tvg-id="ext" group-title="Bangla",71 tv
 https://last.gcdn.co/IND429/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Dbc
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Dbc
 https://last.gcdn.co/IND428/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Btv
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Btv
 https://last.gcdn.co/IND427/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Maasranga
+#EXTINF:0 tvg-id="ext" group-title="My Favourite",Maasranga
 https://last.gcdn.co/IND426/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Gtv
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Gtv 5
 https://last.gcdn.co/IND425/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bangla vision
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Bangla vision
 https://last.gcdn.co/IND423/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rtv
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Rtv
 https://last.gcdn.co/IND422/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Ntv
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Ntv
 https://last.gcdn.co/IND420/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Chanal i
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Channel I
 https://last.gcdn.co/IND419/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Somoy
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Somoy
 https://last.gcdn.co/IND418/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery HD
-https://last.gcdn.co/IND415/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",National geo
-https://last.gcdn.co/IND414/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",M
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Millenium Tv
 https://last.gcdn.co/IND413/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Iqraa
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Iqraa
 https://last.gcdn.co/IND412/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Peace tv
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Peace tv
 https://last.gcdn.co/IND411/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Atn islam
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Atn islam
 https://last.gcdn.co/IND410/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Quran hedaya
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Quran hedaya
 https://last.gcdn.co/IND409/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Tv9
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Tv9
 https://last.gcdn.co/IND408/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Daoom
+#EXTINF:0 tvg-id="ext" group-title="Music",DHoom
 https://last.gcdn.co/IND407/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Songit bd
-https://last.gcdn.co/IND405/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Zee24
-https://last.gcdn.co/IND400/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sony Aath 2
+#EXTINF:0 tvg-id="ext" group-title="Music",Songeet bd
+https://last.gcdn.co/IND405/index.m3u
+#EXTINF:0 tvg-id="ext" group-title="My Favourite",Sony Aath 2
 https://last.gcdn.co/IND397/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Akash 8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Akash Aath
 https://last.gcdn.co/IND396/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sun
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Sun Bangla
 https://last.gcdn.co/IND394/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Colors hd
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Colors Bangla Hd
 https://last.gcdn.co/IND393/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Star jalsha
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Star jalsha
 https://last.gcdn.co/IND392/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Jalsha hd
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Star jalsha 2
 https://last.gcdn.co/IND391/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Zee bangla
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Zee bangla
 https://last.gcdn.co/IND390/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Zee bangla hd
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Zee bangla 2
 https://last.gcdn.co/IND389/index.m3u8
-#EXTINF:,JALSHA MOVIES HD
+#EXTINF:0 tvg-id="ext" group-title="My Favourite",JALSHA MOVIES HD
 http://suncable.serveftp.com/jalshamuvies-enc/video.m3u8
-#EXTINF:,DURONTO TV
+#EXTINF:0 tvg-id="ext" group-title="My Favourite",DURONTO TV
 http://89.187.185.89:3232/ban-duronto/tracks-v1a1/mono.m3u8
-#EXTINF:,NAT GEO WILD
+#EXTINF:0 tvg-id="ext" group-title="My Favourite",NAT GEO WILD
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-#EXTINF:,Utv Movies
+#EXTINF:0 tvg-id="ext" group-title="Hindi",Utv Movies
 https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
-#EXTINF:,Zee action
+#EXTINF:0 tvg-id="ext" group-title="Hindi",Zee action
 http://uknet.ddns.net/728.stream/index.m3u8
-#EXTINF:,Colors cineplex
+#EXTINF:0 tvg-id="ext" group-title="Hindi",Colors cineplex
 http://uknet.ddns.net/735.stream/index.m3u8
-#EXTINF:,Utv 
+#EXTINF:0 tvg-id="ext" group-title=",Utv 
 http://uknet.ddns.net/723.stream/index.m3u8
-#EXTINF:,Zee Bollywood
+#EXTINF:0 tvg-id="ext" group-title="Hindi",Zee Bollywood
 http://uknet.ddns.net/701.stream/index.m3u8
-#EXTINF:,Sony Sab 
+#EXTINF:0 tvg-id="ext" group-title="Hindi",Sony Sab 
 http://uknet.ddns.net/702.stream/index.m3u8
-#EXTINF:,&tv
+#EXTINF:0 tvg-id="ext" group-title="Hindi",&tv
 http://uknet.ddns.net/703.stream/index.m3u8
-#EXTINF:,&pictures
+#EXTINF:0 tvg-id="ext" group-title="Hindi"&pictures
 http://uknet.ddns.net/705.stream/index.m3u8
-#EXTINF:,Star gold selected
+#EXTINF:0 tvg-id="ext" group-title="Hindi",Star gold selected
 http://uknet.ddns.net/709.stream/index.m3u8
-#EXTINF:,Sun Bangla 
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Sun Bangla 2
 http://uknet.ddns.net/903.stream/index.m3u8
-#EXTINF:,Colors Bangla 
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Colors Bangla 
 http://uknet.ddns.net/904.stream/index.m3u8
-#EXTINF:,Zee Bangla 
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Zee Bangla 3
 http://uknet.ddns.net/906.stream/index.m3u8
-#EXTINF:,Star jalsha movies
+#EXTINF:0 tvg-id="ext" group-title="My Favourite",Jalsha Movies 2
 http://uknet.ddns.net/716.stream/index.m3u8
-#EXTINF:,Star jalsha 
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Star jalsha 3
 http://uknet.ddns.net/908.stream/index.m3u8
-#EXTINF:-1,ZEE BOLLYWOOD 
-http://uknet.ddns.net/701.stream/index.m3u8 
-#EXTINF:-1,SONY SAB HD 
-http://uknet.ddns.net/702.stream/index.m3u8 
-#EXTINF:-1,&TV HD 
-http://uknet.ddns.net/703.stream/index.m3u8 
-#EXTINF:-1,PTC CHAKDE 
-http://uknet.ddns.net/704.stream/index.m3u8 
-#EXTINF:-1,&PICTURES 
-http://uknet.ddns.net/705.stream/index.m3u8 
-#EXTINF:-1,SONY MAX HD 
+#EXTINF:0 tvg-id="ext" group-title="Hindi",SONY MAX HD 
 http://uknet.ddns.net/706.stream/index.m3u8 
-#EXTINF:-1,ZEE BANGLA CHINEMA 
+#EXTINF:0 tvg-id="ext" group-title="My Favourite",ZEE BANGLA CHINEMA 
 http://uknet.ddns.net/708.stream/index.m3u8 
-#EXTINF:-1,STAR GOLD SELECT HD 
-http://uknet.ddns.net/709.stream/index.m3u8 
-#EXTINF:-1,STAR SPORTS 1 HD 
+#EXTINF:0 tvg-id="ext" group-title="Sports",STAR SPORTS 1 HD 
 http://uknet.ddns.net/710.stream/index.m3u8 
-#EXTINF:-1,TEN SPORTS 
+#EXTINF:0 tvg-id="ext" group-title="Sports",TEN SPORTS 
 http://uknet.ddns.net/711.stream/index.m3u8 
-#EXTINF:-1,TEN 2 HD 
+#EXTINF:0 tvg-id="ext" group-title="Sports",TEN 2 HD (2)
 http://uknet.ddns.net/712.stream/index.m3u8 
-#EXTINF:-1,TEN 3 HD 
+#EXTINF:0 tvg-id="ext" group-title="Sports",TEN 3 HD (2)
 http://uknet.ddns.net/713.stream/index.m3u8 
-#EXTINF:-1,TG2 
-http://uknet.ddns.net/714.stream/index.m3u8 
-#EXTINF:-1,STAR SPORTS 2 HD 
+#EXTINF:0 tvg-id="ext" group-title="Sports",STAR SPORTS 2 HD 
 http://uknet.ddns.net/715.stream/index.m3u8 
-#EXTINF:-1,JALSA MOVIES 2
-http://uknet.ddns.net/716.stream/index.m3u8 
-#EXTINF:-1,STAR GOLD HD 
+#EXTINF:0 tvg-id="ext" group-title="Hindi",STAR GOLD HD 
 http://uknet.ddns.net/717.stream/index.m3u8 
-#EXTINF:-1,PAK NEWS 
-http://uknet.ddns.net/718.stream/index.m3u8 
-#EXTINF:-1,STAR BHARAT HD 
+#EXTINF:0 tvg-id="ext" group-title="Hindi",STAR BHARAT HD 
 http://uknet.ddns.net/721.stream/index.m3u8 
-#EXTINF:-1,ZEE ANMAL CINEMA 
+#EXTINF:0 tvg-id="ext" group-title="Hindi",ZEE ANMAL CINEMA 
 http://uknet.ddns.net/722.stream/index.m3u8 
-#EXTINF:-1,TSports 
+#EXTINF:0 tvg-id="ext" group-title="Sports",TSports 5
 http://uknet.ddns.net/905.stream/index.m3u8 
-#EXTINF:-1,Zee 24 Ghonta 
-http://uknet.ddns.net/901.stream/index.m3u8 
-#EXTINF:-1,Akash Aath 
-http://uknet.ddns.net/902.stream/index.m3u8 
-#EXTINF:-1,Sun bangla 
-http://uknet.ddns.net/903.stream/index.m3u8 
-#EXTINF:-1,Colors bangla 
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Akash Aath 2
+http://uknet.ddns.net/902.stream/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla,Colors bangla 2
 http://uknet.ddns.net/904.stream/index.m3u8 
-#EXTINF:-1,Zee bangla 
-http://uknet.ddns.net/906.stream/index.m3u8 
-#EXTINF:-1,Sangeet bangla 
+#EXTINF:0 tvg-id="ext" group-title="Music",Sangeet bangla 
 http://uknet.ddns.net/907.stream/index.m3u8 
-#EXTINF:-1,Star Jalsa 
-http://uknet.ddns.net/908.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bJhMpeC.jpg" group-title="Sports",Star Sports 2 HD
 http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZYiU9TEy7aG7drb5hKjnDM/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7m8LXs0.jpg" group-title="Sports",Star Sports Select 2 HD
 http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYVV99hLFD5zWua6fLdsFNM/ts
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png"group-title="Sports",Bein Sports 1
-#http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/6872.m3u8
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/4110.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS86H8YpcWlBeldqk6wb1WYHbLEE8iX-OLX2E5ABBYpJhV4e2HzWKmzT4v9QBucIITMMfg&usqp=CAU"group-title="Sports",Bein Sports 2
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/4111.m3u8
-#EXTINF: -1 tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="Sports", Bein Sports 3
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/6870.m3u8
 #EXTINF:-1 tvg-id="DilSe.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Music",Dil Se (1080p) [Not 24/7]
 https://live.hungama.com/linear/dil-se/playlist.m3u8
 #EXTINF:-1 tvg-id="Nazrana.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Music",Nazrana (1080p)
 https://live.hungama.com/linear/nazrana/playlist.m3u8
+
