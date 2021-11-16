@@ -59,7 +59,7 @@ https://last.gcdn.co/IND447/index.m3u8
 https://last.gcdn.co/IND445/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Bangla",Stv
 https://last.gcdn.co/IND444/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bangla"R TV
+#EXTINF:0 tvg-id="ext" group-title="Bangla",R TV
 https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Bangla",Desh tv
 https://last.gcdn.co/IND443/index.m3u8
