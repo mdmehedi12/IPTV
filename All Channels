@@ -309,3 +309,10 @@ http://opplex.tv:8080/live/996644/996644/109993.m3u8
 http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZYiU9TEy7aG7drb5hKjnDM/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7m8LXs0.jpg" group-title="Sports",Star Sports Select 2 HD
 http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYVV99hLFD5zWua6fLdsFNM/ts
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png"group-title="Sports",Bein Sports 1
+#http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/6872.m3u8
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/4110.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS86H8YpcWlBeldqk6wb1WYHbLEE8iX-OLX2E5ABBYpJhV4e2HzWKmzT4v9QBucIITMMfg&usqp=CAU"group-title="Sports",Bein Sports 2
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/4111.m3u8
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="Sports", Bein Sports 3
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/6870.m3u8
