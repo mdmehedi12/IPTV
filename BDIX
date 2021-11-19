@@ -1,165 +1,165 @@
 #EXTM3U
-#EXTINF:,T Sports
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",T Sports
 http://tv.alphamediazone.com:8089/thunderbd/1/index.m3u8
-#EXTINF:,Atn Bangla
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Atn Bangla
 http://tv.alphamediazone.com:8089/thunderbd/2/index.m3u8
-#EXTINF:,Bangla Vision
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Bangla Vision
 http://tv.alphamediazone.com:8089/thunderbd/3/index.m3u8
-#EXTINF:,La Liga Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",La Liga Tv
 http://tv.alphamediazone.com:8089/thunderbd/4/index.m3u8
-#EXTINF:,Channel 24
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Channel 24
 http://tv.alphamediazone.com:8089/thunderbd/5/index.m3u8
-#EXTINF:,Channel I
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Channel I
 http://tv.alphamediazone.com:8089/thunderbd/6/index.m3u8
-#EXTINF:,DBC News
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",DBC News
 http://tv.alphamediazone.com:8089/thunderbd/7/index.m3u8
-#EXTINF:,Deepto Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Deepto Tv
 http://tv.alphamediazone.com:8089/thunderbd/8/index.m3u8
-#EXTINF:,Duronto Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Duronto Tv
 http://tv.alphamediazone.com:8089/thunderbd/10/index.m3u8
-#EXTINF:,Ekattor Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Ekattor Tv
 http://tv.alphamediazone.com:8089/thunderbd/11/index.m3u8
-#EXTINF:,Independent Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Independent Tv
 http://tv.alphamediazone.com:8089/thunderbd/12/index.m3u8
-#EXTINF:,Jamuna Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Jamuna Tv
 http://tv.alphamediazone.com:8089/thunderbd/13/index.m3u8
-#EXTINF:,R Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",R Tv
 http://tv.alphamediazone.com:8089/thunderbd/14/index.m3u8
-#EXTINF:,SA Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",SA Tv
 http://tv.alphamediazone.com:8089/thunderbd/15/index.m3u8
-#EXTINF:,Ananda Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Ananda Tv
 http://tv.alphamediazone.com:8089/thunderbd/16/index.m3u8
-#EXTINF:,Somoy Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Somoy Tv
 http://tv.alphamediazone.com:8089/thunderbd/17/index.m3u8
-#EXTINF:,News 24 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",News 24 HD
 http://tv.alphamediazone.com:8089/thunderbd/18/index.m3u8
-#EXTINF:,Bangla Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Bangla Tv
 http://tv.alphamediazone.com:8089/thunderbd/19/index.m3u8
-#EXTINF:,Sony Ten 1 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Sony Ten 1 HD
 http://tv.alphamediazone.com:8089/thunderbd/20/index.m3u8
-#EXTINF:,Sony Ten 2 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Sony Ten 2 HD
 http://tv.alphamediazone.com:8089/thunderbd/21/index.m3u8
-#EXTINF:,Sony Ten 3 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Sony Ten 3 HD
 http://tv.alphamediazone.com:8089/thunderbd/22/index.m3u8
-#EXTINF:,ESPN 2
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",ESPN 2
 http://tv.alphamediazone.com:8089/thunderbd/23/index.m3u8
-#EXTINF:,Sony Six HD
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Sony Six HD
 http://tv.alphamediazone.com:8089/thunderbd/24/index.m3u8
-#EXTINF:,Star Sports 1
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Star Sports 1
 http://tv.alphamediazone.com:8089/thunderbd/25/index.m3u8
-#EXTINF:,Star Sports 2
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Star Sports 2
 http://tv.alphamediazone.com:8089/thunderbd/26/index.m3u8
-#EXTINF:,Star Sports Select 1
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Star Sports Select 1
 http://tv.alphamediazone.com:8089/thunderbd/27/index.m3u8
-#EXTINF:,Star Sports Select 2
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Star Sports Select 2
 http://tv.alphamediazone.com:8089/thunderbd/28/index.m3u8
-#EXTINF:,Zee Bangla Cinema
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Zee Bangla Cinema
 http://tv.alphamediazone.com:8089/thunderbd/29/index.m3u8
-#EXTINF:,Star Jalsha
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Star Jalsha
 http://tv.alphamediazone.com:8089/thunderbd/30/index.m3u8
-#EXTINF:,GIO PK
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",GIO PK
 http://tv.alphamediazone.com:8089/thunderbd/31/index.m3u8
-#EXTINF:,Akash Aath
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Akash Aath
 http://tv.alphamediazone.com:8089/thunderbd/32/index.m3u8
-#EXTINF:,Sony Aath
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Sony Aath
 http://tv.alphamediazone.com:8089/thunderbd/33/index.m3u8
-#EXTINF:,Zee Bangla
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Zee Bangla
 http://tv.alphamediazone.com:8089/thunderbd/34/index.m3u8
-#EXTINF:,National Geographic Abu Dhabi
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",National Geographic Abu Dhabi
 http://tv.alphamediazone.com:8089/thunderbd/35/index.m3u8
-#EXTINF:,Sony SAB
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Sony SAB
 http://tv.alphamediazone.com:8089/thunderbd/36/index.m3u8
-#EXTINF:,Sony HD
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Sony HD
 http://tv.alphamediazone.com:8089/thunderbd/38/index.m3u8
-#EXTINF:,Star Movies
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Star Movies
 http://tv.alphamediazone.com:8089/thunderbd/39/index.m3u8
-#EXTINF:,Zee Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Zee Tv
 http://tv.alphamediazone.com:8089/thunderbd/40/index.m3u8
-#EXTINF:,Sony PIX
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Sony PIX
 http://tv.alphamediazone.com:8089/thunderbd/41/index.m3u8
-#EXTINF:,Hollywood Movie
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Hollywood Movie
 http://tv.alphamediazone.com:8089/thunderbd/42/index.m3u8
-#EXTINF:,DISCOVERY HD
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",DISCOVERY HD
 http://tv.alphamediazone.com:8089/thunderbd/43/index.m3u8
-#EXTINF:,BBC Earth
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",BBC Earth
 http://tv.alphamediazone.com:8089/thunderbd/44/index.m3u8
-#EXTINF:,9xm
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",9xm
 http://tv.alphamediazone.com:8089/thunderbd/48/index.m3u8
-#EXTINF:,Atn News
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Atn News
 http://tv.alphamediazone.com:8089/thunderbd/49/index.m3u8
-#EXTINF:,Mohona Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Mohona Tv
 http://tv.alphamediazone.com:8089/thunderbd/50/index.m3u8
-#EXTINF:,Maasranga
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Maasranga
 http://tv.alphamediazone.com:8089/thunderbd/51/index.m3u8
-#EXTINF:,Btv World
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Btv World
 http://tv.alphamediazone.com:8089/thunderbd/53/index.m3u8
-#EXTINF:,Ntv
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Ntv
 http://tv.alphamediazone.com:8089/thunderbd/54/index.m3u8
-#EXTINF:,Nick
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Nick
 http://tv.alphamediazone.com:8089/thunderbd/55/index.m3u8
-#EXTINF:,MY Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",MY Tv
 http://tv.alphamediazone.com:8089/thunderbd/56/index.m3u8
-#EXTINF:,Dhoom
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Dhoom
 http://tv.alphamediazone.com:8089/thunderbd/57/index.m3u8
-#EXTINF:,Gaan Bangla
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Gaan Bangla
 http://tv.alphamediazone.com:8089/thunderbd/58/index.m3u8
-#EXTINF:,Nagorik Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Nagorik Tv
 http://tv.alphamediazone.com:8089/thunderbd/59/index.m3u8
-#EXTINF:,Unknown
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Unknown
 http://tv.alphamediazone.com:8089/thunderbd/60/index.m3u8
-#EXTINF:,Boishakhi Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Boishakhi Tv
 http://tv.alphamediazone.com:8089/thunderbd/61/index.m3u8
-#EXTINF:,Asian Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Asian Tv
 http://tv.alphamediazone.com:8089/thunderbd/62/index.m3u8
-#EXTINF:,Atn Islamic Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Atn Islamic Tv
 http://tv.alphamediazone.com:8089/thunderbd/63/index.m3u8
-#EXTINF:,Ekushey ETV
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Ekushey ETV
 http://tv.alphamediazone.com:8089/thunderbd/65/index.m3u8
-#EXTINF:,Colors Bangla
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Colors Bangla
 http://tv.alphamediazone.com:8089/thunderbd/66/index.m3u8
-#EXTINF:,Star Plus
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Star Plus
 http://tv.alphamediazone.com:8089/thunderbd/67/index.m3u8
-#EXTINF:,Colors HD
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Colors HD
 http://tv.alphamediazone.com:8089/thunderbd/68/index.m3u8
-#EXTINF:,Zee Cafe HD
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Zee Cafe HD
 http://tv.alphamediazone.com:8089/thunderbd/69/index.m3u8
-#EXTINF:,Willow HD
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Willow HD
 http://tv.alphamediazone.com:8089/thunderbd/70/index.m3u8
-#EXTINF:,Europe IPTV
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Europe IPTV
 http://tv.alphamediazone.com:8089/thunderbd/72/index.m3u8
-#EXTINF:,Ptv World
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Ptv World
 http://tv.alphamediazone.com:8089/thunderbd/73/index.m3u8
-#EXTINF:,&TV HD
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",&TV HD
 http://tv.alphamediazone.com:8089/thunderbd/74/index.m3u8
-#EXTINF:,Zee Cinema HD
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Zee Cinema HD
 http://tv.alphamediazone.com:8089/thunderbd/76/index.m3u8
-#EXTINF:,Sony Max
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Sony Max
 http://tv.alphamediazone.com:8089/thunderbd/77/index.m3u8
-#EXTINF:,&Flix HD
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",&Flix HD
 http://tv.alphamediazone.com:8089/thunderbd/78/index.m3u8
-#EXTINF:,CN Arabia
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",CN Arabia
 http://tv.alphamediazone.com:8089/thunderbd/79/index.m3u8
-#EXTINF:,Atn Music
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Atn Music
 http://tv.alphamediazone.com:8089/thunderbd/82/index.m3u8
-#EXTINF:,DW
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",DW
 http://tv.alphamediazone.com:8089/thunderbd/85/index.m3u8
-#EXTINF:,Movie Bangla
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Movie Bangla
 http://tv.alphamediazone.com:8089/thunderbd/86/index.m3u8
-#EXTINF:,Aljazeera
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Aljazeera
 http://tv.alphamediazone.com:8089/thunderbd/89/index.m3u8
-#EXTINF:,Zee Action
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Zee Action
 http://tv.alphamediazone.com:8089/thunderbd/90/index.m3u8
-#EXTINF:,Ptv World
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Ptv World
 http://tv.alphamediazone.com:8089/thunderbd/92/index.m3u8
-#EXTINF:,Zee Bollywood
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Zee Bollywood
 http://tv.alphamediazone.com:8089/thunderbd/94/index.m3u8
-#EXTINF:,Rupshi Bangla
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Rupshi Bangla
 http://tv.alphamediazone.com:8089/thunderbd/95/index.m3u8
-#EXTINF:,Sangeet Bangla
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Sangeet Bangla
 http://tv.alphamediazone.com:8089/thunderbd/96/index.m3u8
-#EXTINF:,Bflix Movies
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Bflix Movies
 http://tv.alphamediazone.com:8089/thunderbd/97/index.m3u8
-#EXTINF:,9x Jalwa
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",9x Jalwa
 http://tv.alphamediazone.com:8089/thunderbd/98/index.m3u8
-#EXTINF:,GTV
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",GTV
 http://tv.alphamediazone.com:8089/thunderbd/102/index.m3u8
