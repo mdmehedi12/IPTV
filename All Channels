@@ -45,6 +45,10 @@ http://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Sports", Sony Six HD
 https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",ASPORTS
+http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",FOX501
+https://nayeemparvez.ml/Fox-Sports-501-HD.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Bangla"0 tvg-id="ext" group-title="My Favourite",Discovery Bangla Hd
 https://last.gcdn.co/IND415/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Bangla"0 tvg-id="ext" group-title="My Favourite",National Geographic Bangla
