@@ -1,3 +1,17 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="BeIN Sports",BeIN Sports Premium 1
 http://88.barouhn.xyz.global.prod.fastly.net/live/6161655001/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BeIN Sports",Bein1
+http://88.barouhn.xyz.global.prod.fastly.net/live/91845457800/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BeIN Sports",Bein2
+http://c20.amaniyouhra.xyz/live/69854211/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BeIN Sports",Bein3
+http://c1.amaniyouhra.xyz/live/645587700/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BeIN Sports",Bein4
+http://c5.amaniyouhra.xyz/live/9787488847/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BeIN Sports",Bein5
+http://55.banrhfour.xyz.global.prod.fastly.net/live/610303030/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BeIN Sports",Bein6
+http://55.banrhfour.xyz.global.prod.fastly.net/live/1515000000/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BeIN Sports",Bein7
+http://55.banrhfour.xyz.global.prod.fastly.net/live/791001144/index.m3u8
