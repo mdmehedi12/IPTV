@@ -143,68 +143,12 @@ https://last.gcdn.co/IND390/index.m3u8
 https://last.gcdn.co/IND389/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="My Favourite",JALSHA MOVIES HD
 http://suncable.serveftp.com/jalshamuvies-enc/video.m3u8
-#EXTINF:0 tvg-id="ext" group-title="My Favourite",JALSHA MOVIES HD 2
-https://last.gcdn.co/IND399/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="My Favourite",DURONTO TV
 http://89.187.185.89:3232/ban-duronto/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="My Favourite",NAT GEO WILD
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi",Utv Movies
 https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Zee action
-http://uknet.ddns.net/728.stream/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Colors cineplex
-http://uknet.ddns.net/735.stream/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=",Utv 
-http://uknet.ddns.net/723.stream/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Zee Bollywood
-http://uknet.ddns.net/701.stream/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Sony Sab 
-http://uknet.ddns.net/702.stream/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Hindi",&tv
-http://uknet.ddns.net/703.stream/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Hindi"&pictures
-http://uknet.ddns.net/705.stream/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Hindi",Star gold selected
-http://uknet.ddns.net/709.stream/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bangla",Sun Bangla 2
-http://uknet.ddns.net/903.stream/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bangla",Colors Bangla 
-http://uknet.ddns.net/904.stream/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bangla",Zee Bangla 3
-http://uknet.ddns.net/906.stream/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="My Favourite",Jalsha Movies 3
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3412.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bangla",Star jalsha 3
-http://uknet.ddns.net/908.stream/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Hindi",SONY MAX HD 
-http://uknet.ddns.net/706.stream/index.m3u8 
-#EXTINF:0 tvg-id="ext" group-title="My Favourite",ZEE BANGLA CHINEMA 
-http://uknet.ddns.net/708.stream/index.m3u8 
-#EXTINF:0 tvg-id="ext" group-title="Sports",STAR SPORTS 1 HD 
-http://uknet.ddns.net/710.stream/index.m3u8 
-#EXTINF:0 tvg-id="ext" group-title="Sports",TEN SPORTS 
-http://uknet.ddns.net/711.stream/index.m3u8 
-#EXTINF:0 tvg-id="ext" group-title="Sports",TEN 2 HD (2)
-http://uknet.ddns.net/712.stream/index.m3u8 
-#EXTINF:0 tvg-id="ext" group-title="Sports",TEN 3 HD (2)
-http://uknet.ddns.net/713.stream/index.m3u8 
-#EXTINF:0 tvg-id="ext" group-title="Sports",STAR SPORTS 2 HD 
-http://uknet.ddns.net/715.stream/index.m3u8 
-#EXTINF:0 tvg-id="ext" group-title="Hindi",STAR GOLD HD 
-http://uknet.ddns.net/717.stream/index.m3u8 
-#EXTINF:0 tvg-id="ext" group-title="Hindi",STAR BHARAT HD 
-http://uknet.ddns.net/721.stream/index.m3u8 
-#EXTINF:0 tvg-id="ext" group-title="Hindi",ZEE ANMAL CINEMA 
-http://uknet.ddns.net/722.stream/index.m3u8 
-#EXTINF:0 tvg-id="ext" group-title="Sports",TSports 5
-http://uknet.ddns.net/905.stream/index.m3u8 
-#EXTINF:0 tvg-id="ext" group-title="Bangla",Akash Aath 2
-http://uknet.ddns.net/902.stream/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bangla,Colors bangla 2
-http://uknet.ddns.net/904.stream/index.m3u8 
-#EXTINF:0 tvg-id="ext" group-title="Music",Sangeet bangla 
-http://uknet.ddns.net/907.stream/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bJhMpeC.jpg" group-title="Sports",Star Sports 2 HD
 http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZYiU9TEy7aG7drb5hKjnDM/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7m8LXs0.jpg" group-title="Sports",Star Sports Select 2 HD
