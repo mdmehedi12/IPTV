@@ -14,21 +14,27 @@ http://10.16.100.241/ftps3d4/TV%20Shows/Bangla%20Drama/Bangi%20TV%20Bangla%20Nat
 #EXTINF:0 tvg-id="ext" group-title="01863746906",01863746906 BANGI 2
 http://10.16.100.241/ftps3d4/TV%20Shows/Bangla%20Drama/Bangi%20TV%20Bangla%20Natok/Bangi%20TV%20E02.mp4
 #EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Sports",T Sports 1
-http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Sports",T Sports 2
 http://10.16.100.207:8082/sports/tSpots_loacal.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Sports",T Sports 2
+http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Sports",T Sports 3
-http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
+https://liv-usa.sonyplex.net/ott/tsports.stream/chunklist_w2126053844.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Sports",T Sports 4
-http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Bangla",Gtv 1
+http://10.16.100.207:8082/sports/Tsports_1stop.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Sports",T Sports 5
+http://10.16.100.245/hindi/t$sports_1stOp.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Sports",T Sports 6
+http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Sports",T Sports 7
+http://10.16.100.245/hindi/T_Sports.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Sports",Gtv 1
+https://live.sonyplex.com/ott/gtv.stream/chunklist_w149568572.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Sports",Gtv 2
+http://10.16.100.203:8082/bangla/TH-gazi_local.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Sports",Gtv 3
 http://10.16.100.207:8082/sports/TH_gtv-local.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Bangla",Gtv 2
-http://10.16.100.207:8082/bangla/TH_gtv-local.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Bangla",Gtv 3
-http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Bangla",Gtv 4
-http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Sports",Gtv 4
+http://10.16.100.245/hindi/GaziTv_CMcl_TH.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Sports", Sony Ten 1 HD
 https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Sports", Sony Ten 2 HD
@@ -157,4 +163,3 @@ http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYVV99hLFD5zWua6fLdsFNM/ts
 https://live.hungama.com/linear/dil-se/playlist.m3u8
 #EXTINF:-1 tvg-id="Nazrana.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Music",Nazrana (1080p)
 https://live.hungama.com/linear/nazrana/playlist.m3u8
-
