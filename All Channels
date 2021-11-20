@@ -35,7 +35,7 @@ http://10.16.100.203:8082/bangla/TH-gazi_local.m3u8
 http://10.16.100.207:8082/sports/TH_gtv-local.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Sports",Gtv 4
 http://10.16.100.245/hindi/GaziTv_CMcl_TH.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Sports",PTV
+#EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Sports",PTV Sports
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Sports", Sony Ten 1 HD
 https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
@@ -45,10 +45,16 @@ http://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="Sports", Sony Six HD
 https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",ASPORTS
+#EXTINF:0 tvg-id="ext" group-title="Sports",A SPORTS
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Astro Cricket
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170835
 #EXTINF:0 tvg-id="ext" group-title="Sports",FOX501
-https://nayeemparvez.ml/Fox-Sports-501-HD.m3u8
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/2180746
+#EXTINF:0 tvg-id="ext" group-title="Sports",Super Sports Cricket
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1166889
+#EXTINF:0 tvg-id="ext" group-title="Sports",PTV Sports 2
+http://rv.flysat.live:80/ams/ams123/84030
 #EXTINF:0 tvg-id="ext" group-title="Bangla"0 tvg-id="ext" group-title="My Favourite",Discovery Bangla Hd
 https://last.gcdn.co/IND415/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Bangla"0 tvg-id="ext" group-title="My Favourite",National Geographic Bangla
