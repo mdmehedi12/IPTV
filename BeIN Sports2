@@ -59,3 +59,15 @@ http://88.barouhn.xyz.global.prod.fastly.net:80/live/500025558/index.m3u8
 http://88.barouhn.xyz.global.prod.fastly.net/live/8800255521/index.m3u8
 #EXTINF:1 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="BeIN Sports",Bein Sports Xtra 2
 http://88.barouhn.xyz.global.prod.fastly.net/live/51514003371/index.m3u8
+#EXTINF:1 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="BeIN Sports",BeIN Sports English 1 (720)
+http://rv.flysat.live:80/ams/ams123/181684
+#EXTINF:1 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="BeIN Sports",BeIN Sports English 1 
+http://rv.flysat.live:80/ams/ams123/181685
+#EXTINF:1 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="BeIN Sports",BeIN Sports English 2 (720)
+http://rv.flysat.live:80/ams/ams123/181682
+#EXTINF:1 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="BeIN Sports",BeIN Sports English 2
+http://rv.flysat.live:80/ams/ams123/181683
+#EXTINF:1 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="BeIN Sports",BeIN Sports English 3 (720)
+http://rv.flysat.live:80/ams/ams123/181680
+#EXTINF:1 tvg-id="ext" group-title="Sports"0 tvg-id="ext" group-title="BeIN Sports",BeIN Sports English 3
+http://rv.flysat.live:80/ams/ams123/181681
