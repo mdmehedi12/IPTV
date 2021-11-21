@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SL VS WI",Sony Liv 720P
+https://sonydaime.akamaized.net/hls/live/2022316/DAI12MEMOBILE/hdntl=exp=1637556442~acl=%2f*~id=1eb540d9cf834b688e3a71144616fb97-1637469996281-2011111138147984752~data=hdntl~hmac=e8c8de8453e1f4e50c1dc653414587b0c62efdc92450774bed253ad5be06ec73/master_1350.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SL VS WI",Sony Liv 720p FHD
+https://sonydaime.akamaized.net/hls/live/2022316/DAI12MEMOBILE/hdntl=exp=1637556442~acl=%2f*~id=1eb540d9cf834b688e3a71144616fb97-1637469996281-2011111138147984752~data=hdntl~hmac=e8c8de8453e1f4e50c1dc653414587b0c62efdc92450774bed253ad5be06ec73/master_2000.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SL VS WI",Sony Liv 1080p
+https://sonydaime.akamaized.net/hls/live/2022316/DAI12MEMOBILE/hdntl=exp=1637556442~acl=%2f*~id=1eb540d9cf834b688e3a71144616fb97-1637469996281-2011111138147984752~data=hdntl~hmac=e8c8de8453e1f4e50c1dc653414587b0c62efdc92450774bed253ad5be06ec73/master_3000.m3u8
