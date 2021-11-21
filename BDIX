@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",T Sports
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Sports",T Sports
 http://tv.alphamediazone.com:8089/thunderbd/1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Atn Bangla
 http://tv.alphamediazone.com:8089/thunderbd/2/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Bangla Vision
 http://tv.alphamediazone.com:8089/thunderbd/3/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",La Liga Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Sports",La Liga Tv
 http://tv.alphamediazone.com:8089/thunderbd/4/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Channel 24
 http://tv.alphamediazone.com:8089/thunderbd/5/index.m3u8
@@ -35,29 +35,29 @@ http://tv.alphamediazone.com:8089/thunderbd/17/index.m3u8
 http://tv.alphamediazone.com:8089/thunderbd/18/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Bangla Tv
 http://tv.alphamediazone.com:8089/thunderbd/19/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Sony Ten 1 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Sports",Sony Ten 1 HD
 http://tv.alphamediazone.com:8089/thunderbd/20/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Sony Ten 2 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Sports",Sony Ten 2 HD
 http://tv.alphamediazone.com:8089/thunderbd/21/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Sony Ten 3 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Sports",Sony Ten 3 HD
 http://tv.alphamediazone.com:8089/thunderbd/22/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",ESPN 2
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Sports",ESPN 2
 http://tv.alphamediazone.com:8089/thunderbd/23/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Sony Six HD
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Sports",Sony Six HD
 http://tv.alphamediazone.com:8089/thunderbd/24/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Star Sports 1
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Sports",Star Sports 1
 http://tv.alphamediazone.com:8089/thunderbd/25/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Star Sports 2
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Sports",Star Sports 2
 http://tv.alphamediazone.com:8089/thunderbd/26/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Star Sports Select 1
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Sports",Star Sports Select 1
 http://tv.alphamediazone.com:8089/thunderbd/27/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Star Sports Select 2
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Sports",Star Sports Select 2
 http://tv.alphamediazone.com:8089/thunderbd/28/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Zee Bangla Cinema
 http://tv.alphamediazone.com:8089/thunderbd/29/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Star Jalsha
 http://tv.alphamediazone.com:8089/thunderbd/30/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",GIO PK
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Jalsha Movies HD
 http://tv.alphamediazone.com:8089/thunderbd/31/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",Akash Aath
 http://tv.alphamediazone.com:8089/thunderbd/32/index.m3u8
@@ -161,5 +161,5 @@ http://tv.alphamediazone.com:8089/thunderbd/96/index.m3u8
 http://tv.alphamediazone.com:8089/thunderbd/97/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",9x Jalwa
 http://tv.alphamediazone.com:8089/thunderbd/98/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Channels",GTV
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Sports",GTV
 http://tv.alphamediazone.com:8089/thunderbd/102/index.m3u8
