@@ -15,7 +15,7 @@ http://tv.alphamediazone.com:8089/thunderbd/6/index.m3u8
 http://tv.alphamediazone.com:8089/thunderbd/7/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Bangla",Deepto Tv
 http://tv.alphamediazone.com:8089/thunderbd/8/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Bangla",Duronto Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="My Favourite",Duronto TV 2
 http://tv.alphamediazone.com:8089/thunderbd/10/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels"0 tvg-id="ext" group-title="Bangla",Ekattor Tv
 http://tv.alphamediazone.com:8089/thunderbd/11/index.m3u8
