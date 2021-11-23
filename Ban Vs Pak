@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="Ban vs Pak",T SPORTS
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637591375/ei/71SbYdf9DIuAjuMPw9W_gA8/ip/103.135.90.149/id/sW7yOX4jmwc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/gcr/bd/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgZ2oabdRuleQw7KgKho3Eqcz5sO4SkRjAots57XJcEwwCIQCQFC3xCkIQ6B5v_6YBuGbpNQsfFQ_mswYhQ3I3NB8j0g%3D%3D/file/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Ban vs Pak",GTV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637588145/ei/UUibYebfK4mM3LUP-uGSEA/ip/103.135.90.149/id/AN97vc6WVEU.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/gcr/bd/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/24027536/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgYpMyLSPwbJ0faw-aT4jjczvPLvQn-ip-4NXho-hojXACIDVr08_3hG0VmvKWPbXLl2Xc7R94c7ZtK9aJ8aywtTeV/file/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Ban vs Pak",RABBITHOLEBD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637588271/ei/z0ibYdXvHr-Jz7sPlZuKyAk/ip/103.135.90.149/id/SqQ-nG2U59Q.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/gcr/bd/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgTSFEiJRNTtGCYcf4UFq_nAOH3s4YeHZdAkLFG26b78MCIFF8K4WopsHeJH35e33agNX3NdmYe4w770S292awqOcE/file/index.m3u8
